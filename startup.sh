@@ -1,0 +1,1 @@
+#!/bin/bash\nset -e\npython -m uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}\n
