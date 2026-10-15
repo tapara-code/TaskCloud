@@ -52,18 +52,3 @@ Prueba local:
 5. Eliminar una tarea de prueba.
 6. Mostrar `/docs`, ejecutar `GET /api/tareas` y abrir `/health`.
 7. Abrir la URL desde otro dispositivo conectado a Internet.
-
-## Guion sugerido para el video (máximo 10 minutos)
-- 0:00–0:40: objetivo y nombre TaskCloud.
-- 0:40–1:30: tecnologías utilizadas y arquitectura general.
-- 1:30–2:30: mostrar `main.py`, `templates/index.html`, `static/styles.css`, `requirements.txt`.
-- 2:30–4:00: mostrar App Service y el proceso de despliegue.
-- 4:00–6:40: demostrar registro, búsqueda, filtro, actualización y eliminación.
-- 6:40–7:40: mostrar `/docs`, `/api/tareas` y `/health`.
-- 7:40–8:30: mostrar desde un celular u otro dispositivo.
-- 8:30–9:00: conclusiones.
-
-## Archivos para el aula virtual
-1. Código fuente: ZIP del proyecto.
-2. Enlace HTTPS público real de Azure.
-3. Video demostrativo de máximo 10 minutos.
